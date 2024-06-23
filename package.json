@@ -1,0 +1,21 @@
+{
+  "name": "my-bank-account",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.23",
+    "rxjs": "^7.8.1",
+    "tslib": "^2.6.3",
+    "undici-types": "^5.26.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
